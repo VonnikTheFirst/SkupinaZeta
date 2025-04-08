@@ -4,5 +4,5 @@ Siniša Todić; sinisa.todic@student.um.si; test-Todić
 Nelly Alexander Perez; nelly.perez@student.um.si; test-Perez
 Matevz Kovacic; matevz.kovacic1@student.um.si; test-kovacic
 Vid Strojan; vid.strojan@student.um.si; test-Strojan
-
+Miklavž Podkrižnik; miklavz.podkriznik@student.um.si; test-Podkriznik
 fak
