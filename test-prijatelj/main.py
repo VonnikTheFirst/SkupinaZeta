@@ -1,0 +1,1 @@
+print("Cigus miugus")
