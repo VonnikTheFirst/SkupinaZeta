@@ -6,6 +6,5 @@ Matevz Kovacic; matevz.kovacic1@student.um.si; test-kovacic
 Vid Strojan; vid.strojan@student.um.si; test-Strojan
 Miklavž Podkrižnik; miklavz.podkriznik@student.um.si; test-Podkriznik
 Jan Prijatelj; jan.prijatelj@student.um.si; test-prijatelj
-fak
 David Lukič; david.lukic@student.um.si; test-lukič
 Tjaša Zdešar; tjasa.zdesar@student.um.si; test-Zdesar
